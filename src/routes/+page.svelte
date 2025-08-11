@@ -155,7 +155,7 @@
       
       <div class="mb-6" style="font-weight:600;">We Build a Strong Digital Foundation with Web and Mobile App Development, Increase your Visibility Through Digital Marketing, and Provide Valuable Business Insights with Dashboard Data Visualization.
       </div>
-      <GradientButton pill color="greenToBlue">Let's get Started ➜</GradientButton> &nbsp;
+      <GradientButton pill color="greenToBlue" class="mb-2">Let's get Started ➜</GradientButton> &nbsp;
       <GradientButton outline pill color="cyanToBlue">View our Portfolio ➜</GradientButton>
     </div> 
 
@@ -262,7 +262,7 @@
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2" style="padding: 4rem 1rem;max-width: 1200px;margin: 0 auto;">
     <div class="rounded-xl pr-4" style="margin-top:-80px;">
-    <img src="/Images/Calling.webp" alt="Hanya menghubungi kami" style="transition: transform 0.3s ease;margin-left:220px;" />
+    <img class="imgCSTellus" src="/Images/Calling.webp" alt="Hanya menghubungi kami" style="transition: transform 0.3s ease;" />
       <div style="margin-top:-380px;text-shadow: 4px 2px 10px #090b17;">
         <h1 style="color:#edf4fb;font-weight:600;line-height: 1.2;">
           Please <Mark class="dark:bg-blue-300 bg-blue-400" style="background: #cbe3ff;">Tell Us</Mark> What You Would Like to Do in <Mark class="dark:bg-blue-300 bg-blue-400" style="background:#75dbec;">The Service Form</Mark> on The Side, We Will Respond to You According to Your Preferred Options.
@@ -746,13 +746,23 @@ bottom={150}>
     margin: 0 auto;
     padding: 40px 20px;
   }
+
+  .imgCSTellus {
+      margin-left:220px;
+    }
   
  
   @media (max-width: 768px) {
     .VerticalTabsBuild {
       padding: 20px 10px;
     }  
+
+     .imgCSTellus {
+      margin-left:0px;
+    }
   }
+
+    
 
   /***  CSS Carousel Testimony */
 
@@ -833,6 +843,8 @@ bottom={150}>
     .review-card {
       padding: 16px;
     }
+    
+    
   }
 
 

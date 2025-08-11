@@ -100,7 +100,7 @@
   </SpeedDialButton>
 </SpeedDial>
 
-<Footer footerType="socialmedia" style="background-image:url(/Images/FooterBackground.png);background-size: 100% 120%;background-repeat: no-repeat;padding: 1rem 6rem;aspect-ratio: 18/3;">
+<Footer class="py-4 px-8 lg:px-24" footerType="socialmedia" style="background-image:url(/Images/FooterBackground.png);background-size: 100% 120%;background-repeat: no-repeat;aspect-ratio: 18/3;">
   <div class="md:flex md:justify-between">
     <div class="mb-6 md:mb-0">
       <FooterBrand href="#" src="Images/PlanetDot.png" alt="PlanetDot Logo" name="@PlanetDot" />
