@@ -56,7 +56,7 @@
       price: 'Start From 5jt IDR - 50jt IDR',
       content: `
        <center><img src="/Images/Web Development Service.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-        <p style="color:#0b6a7e;font-weight:500;">We help you turn your digital ideas into reality. Our team of experts focuses on building robust web solutions that can be tailored to your unique business needs. We offer a wide range of services, including custom web application development, intuitive portals and dashboards for more efficient data management, and API and database integration to connect your systems.</p>
+        <p style="color:#0b6a7e;font-weight:500;">We transform your digital ideas into robust, solution-oriented web applications. Our team of experts builds tailored solutions for your unique business needs, from portals and dashboards to complex system integrations for more efficient data management.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>
@@ -85,7 +85,7 @@
       price: 'Start From 20jt IDR - 100jt IDR',
       content: `
        <center><img src="/Images/Mobile App Development Service.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-       <p style="color:#0b6a7e;font-weight:500;">Transform your ideas into powerful mobile applications. We specialize in creating native and cross-platform mobile apps that deliver exceptional user experiences across iOS and Android devices.</p>
+       <p style="color:#0b6a7e;font-weight:500;">Turn your brilliant idea into a powerful and intuitive mobile app. We specialize in creating native (iOS & Android) and cross-platform apps that deliver exceptional user experiences to reach your audience everywhere.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>
@@ -114,7 +114,7 @@
       price: 'Start From 20jt IDR - 100jt IDR',
       content: `
       <center><img src="/Images/Dashboard Visual Data.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-        <p style="color:#0b6a7e;font-weight:500;">Transform your data into powerful insights with our custom dashboard solutions. We create interactive, real-time dashboards that help you make data-driven decisions.</p>
+        <p style="color:#0b6a7e;font-weight:500;">Transform your complex data into valuable insights through interactive, visual dashboards. We design real-time, custom dashboard solutions to help you make smarter, data-driven business decisions.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>
@@ -143,7 +143,7 @@
       price: 'Start From 5jt IDR - 50jt IDR',
       content: `
       <center><img src="/Images/Landing Page.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-        <p style="color:#0b6a7e;font-weight:500;">Create stunning, conversion-focused landing pages and websites that capture your audience's attention and drive results for your business.</p>
+        <p style="color:#0b6a7e;font-weight:500;">Create a memorable first impression with stunning web design and landing pages. We focus on designing displays that are not only beautiful but also responsive, fast, and conversion-optimized to drive real results for your business.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>
@@ -172,7 +172,7 @@
       price: 'Start From 5jt IDR - 50jt IDR',
       content: `
       <center><img src="/Images/Digital Marketing.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-        <p style="color:#0b6a7e;font-weight:500;">Boost your online presence and reach your target audience with our comprehensive digital marketing strategies, SEO optimization, and advertising campaigns.</p>
+        <p style="color:#0b6a7e;font-weight:500;">Increase your online visibility and reach your target audience more effectively. Through a comprehensive digital marketing strategy, we optimize SEO, manage advertising, and build targeted campaigns to grow your business.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>
@@ -201,7 +201,7 @@
       price: 'Start From 5jt IDR - 50jt IDR',
       content: `
        <center><img src="/Images/Content Creative.webp" style="width:80%;height:350px;margin-bottom:10px;transition: transform 0.3s ease;" /></center>
-       <p style="color:#0b6a7e;font-weight:500;">Build a strong brand identity with our creative design services. From logos to social media content, we help you create a consistent and memorable brand presence.</p>
+       <p style="color:#0b6a7e;font-weight:500;">Build a strong and memorable brand identity with our creative design services. From logo creation and promotional materials to social media content, we help create consistent and engaging visuals to enhance your brand image.</p>
         <div class="grid grid-cols-2 gap-4">
           <div>
           <ul>

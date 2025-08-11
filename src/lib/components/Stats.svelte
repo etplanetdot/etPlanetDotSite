@@ -2,7 +2,7 @@
 import Saos from "saos";
 
  const stats = [
-   { label: 'Since', value: '2017', icon: '📅' },
+   { label: 'Since', value: '2019', icon: '📅' },
    { label: 'Project', value: '50+', icon: '📊' },
    { label: 'Client', value: '60+', icon: '👥' },
    { label: 'Satisfaction Score', value: '100%', icon: '🏆' }

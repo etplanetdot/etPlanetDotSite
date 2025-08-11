@@ -10,8 +10,7 @@
   let mobileMenuOpen = $state(false);
   
   const navigation = [
-    { name: 'Home', href: '/' },
-    { name: 'About Us', href: '/about' },
+    { name: 'About Us', href: '/' },
     { name: 'Services', href: '/#Services' },
     { name: 'Packages', href: '/packages' },
     { name: 'Portofolio', href: '/#Portofolio' },
